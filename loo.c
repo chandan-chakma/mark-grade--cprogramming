@@ -1,4 +1,3 @@
-// how to use ternary operaton in c programming language
 #include<stdio.h>
 int main() {
     int num;
@@ -8,4 +7,3 @@ int main() {
     printf("%d", lou);
 
 
-}
